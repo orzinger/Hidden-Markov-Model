@@ -1,0 +1,200 @@
+JJ pre_word=START pre_tag=START d_pre_word=START d_pre_tag=START_START next_word=members d_next_word=of prefix1=I suffix1=l prefix2=In suffix2=al prefix3=Inf suffix3=ial prefix4=Infl suffix4=tial contains_upper=True current_word=UNK
+NNS pre_word=Influential pre_tag=JJ d_pre_word=START d_pre_tag=START_JJ next_word=of d_next_word=the current_word=members
+IN pre_word=members pre_tag=NNS d_pre_word=Influential d_pre_tag=JJ_NNS next_word=the d_next_word=House current_word=of
+DT pre_word=of pre_tag=IN d_pre_word=members d_pre_tag=NNS_IN next_word=House d_next_word=Ways current_word=the
+NNP pre_word=the pre_tag=DT d_pre_word=of d_pre_tag=IN_DT next_word=Ways d_next_word=and current_word=House
+NNP pre_word=House pre_tag=NNP d_pre_word=the d_pre_tag=DT_NNP next_word=and d_next_word=Means prefix1=W suffix1=s prefix2=Wa suffix2=ys prefix3=Way suffix3=ays prefix4=Ways suffix4=Ways contains_upper=True current_word=UNK
+CC pre_word=Ways pre_tag=NNP d_pre_word=House d_pre_tag=NNP_NNP next_word=Means d_next_word=Committee current_word=and
+NNP pre_word=and pre_tag=CC d_pre_word=Ways d_pre_tag=NNP_CC next_word=Committee d_next_word=introduced prefix1=M suffix1=s prefix2=Me suffix2=ns prefix3=Mea suffix3=ans prefix4=Mean suffix4=eans contains_upper=True current_word=UNK
+NNP pre_word=Means pre_tag=NNP d_pre_word=and d_pre_tag=CC_NNP next_word=introduced d_next_word=legislation prefix1=C suffix1=e prefix2=Co suffix2=ee prefix3=Com suffix3=tee prefix4=Comm suffix4=ttee contains_upper=True current_word=UNK
+VBD pre_word=Committee pre_tag=NNP d_pre_word=Means d_pre_tag=NNP_NNP next_word=legislation d_next_word=that current_word=introduced
+NN pre_word=introduced pre_tag=VBD d_pre_word=Committee d_pre_tag=NNP_VBD next_word=that d_next_word=would current_word=legislation
+WDT pre_word=legislation pre_tag=NN d_pre_word=introduced d_pre_tag=VBD_NN next_word=would d_next_word=restrict current_word=that
+MD pre_word=that pre_tag=WDT d_pre_word=legislation d_pre_tag=NN_WDT next_word=restrict d_next_word=how current_word=would
+VB pre_word=would pre_tag=MD d_pre_word=that d_pre_tag=WDT_MD next_word=how d_next_word=the prefix1=r suffix1=t prefix2=re suffix2=ct prefix3=res suffix3=ict prefix4=rest suffix4=rict current_word=UNK
+WRB pre_word=restrict pre_tag=VB d_pre_word=would d_pre_tag=MD_VB next_word=the d_next_word=new current_word=how
+DT pre_word=how pre_tag=WRB d_pre_word=restrict d_pre_tag=VB_WRB next_word=new d_next_word=savings-and-loan current_word=the
+JJ pre_word=the pre_tag=DT d_pre_word=how d_pre_tag=WRB_DT next_word=savings-and-loan d_next_word=bailout current_word=new
+NN pre_word=new pre_tag=JJ d_pre_word=the d_pre_tag=DT_JJ next_word=bailout d_next_word=agency prefix1=s suffix1=n prefix2=sa suffix2=an prefix3=sav suffix3=oan prefix4=savi suffix4=loan contains_hyphen=True current_word=UNK
+NN pre_word=savings-and-loan pre_tag=NN d_pre_word=new d_pre_tag=JJ_NN next_word=agency d_next_word=can current_word=bailout
+NN pre_word=bailout pre_tag=NN d_pre_word=savings-and-loan d_pre_tag=NN_NN next_word=can d_next_word=raise current_word=agency
+MD pre_word=agency pre_tag=NN d_pre_word=bailout d_pre_tag=NN_NN next_word=raise d_next_word=capital current_word=can
+VB pre_word=can pre_tag=MD d_pre_word=agency d_pre_tag=NN_MD next_word=capital d_next_word=, prefix1=r suffix1=e prefix2=ra suffix2=se prefix3=rai suffix3=ise prefix4=rais suffix4=aise current_word=UNK
+NN pre_word=raise pre_tag=VB d_pre_word=can d_pre_tag=MD_VB next_word=, d_next_word=creating current_word=capital
+, pre_word=capital pre_tag=NN d_pre_word=raise d_pre_tag=VB_NN next_word=creating d_next_word=another current_word=,
+VBG pre_word=, pre_tag=, d_pre_word=capital d_pre_tag=NN_, next_word=another d_next_word=potential prefix1=c suffix1=g prefix2=cr suffix2=ng prefix3=cre suffix3=ing prefix4=crea suffix4=ting current_word=UNK
+DT pre_word=creating pre_tag=VBG d_pre_word=, d_pre_tag=,_VBG next_word=potential d_next_word=obstacle current_word=another
+JJ pre_word=another pre_tag=DT d_pre_word=creating d_pre_tag=VBG_DT next_word=obstacle d_next_word=to prefix1=p suffix1=l prefix2=po suffix2=al prefix3=pot suffix3=ial prefix4=pote suffix4=tial current_word=UNK
+NN pre_word=potential pre_tag=JJ d_pre_word=another d_pre_tag=DT_JJ next_word=to d_next_word=the prefix1=o suffix1=e prefix2=ob suffix2=le prefix3=obs suffix3=cle prefix4=obst suffix4=acle current_word=UNK
+IN pre_word=obstacle pre_tag=NN d_pre_word=potential d_pre_tag=JJ_NN next_word=the d_next_word=government current_word=to
+DT pre_word=to pre_tag=IN d_pre_word=obstacle d_pre_tag=NN_IN next_word=government d_next_word='s current_word=the
+NN pre_word=the pre_tag=DT d_pre_word=to d_pre_tag=IN_DT next_word='s d_next_word=sale current_word=government
+POS pre_word=government pre_tag=NN d_pre_word=the d_pre_tag=DT_NN next_word=sale d_next_word=of current_word='s
+NN pre_word='s pre_tag=POS d_pre_word=government d_pre_tag=NN_POS next_word=of d_next_word=sick current_word=sale
+IN pre_word=sale pre_tag=NN d_pre_word='s d_pre_tag=POS_NN next_word=sick d_next_word=thrifts current_word=of
+JJ pre_word=of pre_tag=IN d_pre_word=sale d_pre_tag=NN_IN next_word=thrifts d_next_word=. prefix1=s suffix1=k prefix2=si suffix2=ck prefix3=sic suffix3=ick prefix4=sick suffix4=sick current_word=UNK
+NNS pre_word=sick pre_tag=JJ d_pre_word=of d_pre_tag=IN_JJ next_word=. d_next_word=END current_word=thrifts
+. pre_word=thrifts pre_tag=NNS d_pre_word=sick d_pre_tag=JJ_NNS next_word=END d_next_word=END current_word=.
+DT pre_word=START pre_tag=START d_pre_word=START d_pre_tag=START_START next_word=bill d_next_word=, current_word=The
+NN pre_word=The pre_tag=DT d_pre_word=START d_pre_tag=START_DT next_word=, d_next_word=whose current_word=bill
+, pre_word=bill pre_tag=NN d_pre_word=The d_pre_tag=DT_NN next_word=whose d_next_word=backers current_word=,
+WP$ pre_word=, pre_tag=, d_pre_word=bill d_pre_tag=NN_, next_word=backers d_next_word=include current_word=whose
+NNS pre_word=whose pre_tag=WP$ d_pre_word=, d_pre_tag=,_WP$ next_word=include d_next_word=Chairman prefix1=b suffix1=s prefix2=ba suffix2=rs prefix3=bac suffix3=ers prefix4=back suffix4=kers current_word=UNK
+VBP pre_word=backers pre_tag=NNS d_pre_word=whose d_pre_tag=WP$_NNS next_word=Chairman d_next_word=Dan current_word=include
+NNP pre_word=include pre_tag=VBP d_pre_word=backers d_pre_tag=NNS_VBP next_word=Dan d_next_word=Rostenkowski prefix1=C suffix1=n prefix2=Ch suffix2=an prefix3=Cha suffix3=man prefix4=Chai suffix4=rman contains_upper=True current_word=UNK
+NNP pre_word=Chairman pre_tag=NNP d_pre_word=include d_pre_tag=VBP_NNP next_word=Rostenkowski d_next_word=( prefix1=D suffix1=n prefix2=Da suffix2=an prefix3=Dan suffix3=Dan contains_upper=True current_word=UNK
+NNP pre_word=Dan pre_tag=NNP d_pre_word=Chairman d_pre_tag=NNP_NNP next_word=( d_next_word=D. prefix1=R suffix1=i prefix2=Ro suffix2=ki prefix3=Ros suffix3=ski prefix4=Rost suffix4=wski contains_upper=True current_word=UNK
+( pre_word=Rostenkowski pre_tag=NNP d_pre_word=Dan d_pre_tag=NNP_NNP next_word=D. d_next_word=, current_word=(
+NNP pre_word=( pre_tag=( d_pre_word=Rostenkowski d_pre_tag=NNP_( next_word=, d_next_word=Ill. current_word=D.
+, pre_word=D. pre_tag=NNP d_pre_word=( d_pre_tag=(_NNP next_word=Ill. d_next_word=) current_word=,
+NNP pre_word=, pre_tag=, d_pre_word=D. d_pre_tag=NNP_, next_word=) d_next_word=, prefix1=I suffix1=. prefix2=Il suffix2=l. prefix3=Ill suffix3=ll. prefix4=Ill. suffix4=Ill. contains_upper=True current_word=UNK
+) pre_word=Ill. pre_tag=NNP d_pre_word=, d_pre_tag=,_NNP next_word=, d_next_word=would current_word=)
+, pre_word=) pre_tag=) d_pre_word=Ill. d_pre_tag=NNP_) next_word=would d_next_word=prevent current_word=,
+MD pre_word=, pre_tag=, d_pre_word=) d_pre_tag=)_, next_word=prevent d_next_word=the current_word=would
+VB pre_word=would pre_tag=MD d_pre_word=, d_pre_tag=,_MD next_word=the d_next_word=Resolution current_word=prevent
+DT pre_word=prevent pre_tag=VB d_pre_word=would d_pre_tag=MD_VB next_word=Resolution d_next_word=Trust current_word=the
+NNP pre_word=the pre_tag=DT d_pre_word=prevent d_pre_tag=VB_DT next_word=Trust d_next_word=Corp. prefix1=R suffix1=n prefix2=Re suffix2=on prefix3=Res suffix3=ion prefix4=Reso suffix4=tion contains_upper=True current_word=UNK
+NNP pre_word=Resolution pre_tag=NNP d_pre_word=the d_pre_tag=DT_NNP next_word=Corp. d_next_word=from current_word=Trust
+NNP pre_word=Trust pre_tag=NNP d_pre_word=Resolution d_pre_tag=NNP_NNP next_word=from d_next_word=raising current_word=Corp.
+IN pre_word=Corp. pre_tag=NNP d_pre_word=Trust d_pre_tag=NNP_NNP next_word=raising d_next_word=temporary current_word=from
+VBG pre_word=from pre_tag=IN d_pre_word=Corp. d_pre_tag=NNP_IN next_word=temporary d_next_word=working prefix1=r suffix1=g prefix2=ra suffix2=ng prefix3=rai suffix3=ing prefix4=rais suffix4=sing current_word=UNK
+JJ pre_word=raising pre_tag=VBG d_pre_word=from d_pre_tag=IN_VBG next_word=working d_next_word=capital prefix1=t suffix1=y prefix2=te suffix2=ry prefix3=tem suffix3=ary prefix4=temp suffix4=rary current_word=UNK
+VBG pre_word=temporary pre_tag=JJ d_pre_word=raising d_pre_tag=VBG_JJ next_word=capital d_next_word=by current_word=working
+NN pre_word=working pre_tag=VBG d_pre_word=temporary d_pre_tag=JJ_VBG next_word=by d_next_word=having current_word=capital
+IN pre_word=capital pre_tag=NN d_pre_word=working d_pre_tag=VBG_NN next_word=having d_next_word=an current_word=by
+VBG pre_word=by pre_tag=IN d_pre_word=capital d_pre_tag=NN_IN next_word=an d_next_word=RTC-owned current_word=having
+DT pre_word=having pre_tag=VBG d_pre_word=by d_pre_tag=IN_VBG next_word=RTC-owned d_next_word=bank current_word=an
+JJ pre_word=an pre_tag=DT d_pre_word=having d_pre_tag=VBG_DT next_word=bank d_next_word=or prefix1=R suffix1=d prefix2=RT suffix2=ed prefix3=RTC suffix3=ned prefix4=RTC- suffix4=wned contains_upper=True contains_hyphen=True current_word=UNK
+NN pre_word=RTC-owned pre_tag=JJ d_pre_word=an d_pre_tag=DT_JJ next_word=or d_next_word=thrift current_word=bank
+CC pre_word=bank pre_tag=NN d_pre_word=RTC-owned d_pre_tag=JJ_NN next_word=thrift d_next_word=issue current_word=or
+NN pre_word=or pre_tag=CC d_pre_word=bank d_pre_tag=NN_CC next_word=issue d_next_word=debt current_word=thrift
+NN pre_word=thrift pre_tag=NN d_pre_word=or d_pre_tag=CC_NN next_word=debt d_next_word=that current_word=issue
+NN pre_word=issue pre_tag=NN d_pre_word=thrift d_pre_tag=NN_NN next_word=that d_next_word=would current_word=debt
+WDT pre_word=debt pre_tag=NN d_pre_word=issue d_pre_tag=NN_NN next_word=would d_next_word=n't current_word=that
+MD pre_word=that pre_tag=WDT d_pre_word=debt d_pre_tag=NN_WDT next_word=n't d_next_word=be current_word=would
+RB pre_word=would pre_tag=MD d_pre_word=that d_pre_tag=WDT_MD next_word=be d_next_word=counted current_word=n't
+VB pre_word=n't pre_tag=RB d_pre_word=would d_pre_tag=MD_RB next_word=counted d_next_word=on current_word=be
+VBN pre_word=be pre_tag=VB d_pre_word=n't d_pre_tag=RB_VB next_word=on d_next_word=the prefix1=c suffix1=d prefix2=co suffix2=ed prefix3=cou suffix3=ted prefix4=coun suffix4=nted current_word=UNK
+IN pre_word=counted pre_tag=VBN d_pre_word=be d_pre_tag=VB_VBN next_word=the d_next_word=federal current_word=on
+DT pre_word=on pre_tag=IN d_pre_word=counted d_pre_tag=VBN_IN next_word=federal d_next_word=budget current_word=the
+JJ pre_word=the pre_tag=DT d_pre_word=on d_pre_tag=IN_DT next_word=budget d_next_word=. current_word=federal
+NN pre_word=federal pre_tag=JJ d_pre_word=the d_pre_tag=DT_JJ next_word=. d_next_word=END current_word=budget
+. pre_word=budget pre_tag=NN d_pre_word=federal d_pre_tag=JJ_NN next_word=END d_next_word=END current_word=.
+DT pre_word=START pre_tag=START d_pre_word=START d_pre_tag=START_START next_word=bill d_next_word=intends current_word=The
+NN pre_word=The pre_tag=DT d_pre_word=START d_pre_tag=START_DT next_word=intends d_next_word=to current_word=bill
+VBZ pre_word=bill pre_tag=NN d_pre_word=The d_pre_tag=DT_NN next_word=to d_next_word=restrict prefix1=i suffix1=s prefix2=in suffix2=ds prefix3=int suffix3=nds prefix4=inte suffix4=ends current_word=UNK
+TO pre_word=intends pre_tag=VBZ d_pre_word=bill d_pre_tag=NN_VBZ next_word=restrict d_next_word=the current_word=to
+VB pre_word=to pre_tag=TO d_pre_word=intends d_pre_tag=VBZ_TO next_word=the d_next_word=RTC prefix1=r suffix1=t prefix2=re suffix2=ct prefix3=res suffix3=ict prefix4=rest suffix4=rict current_word=UNK
+DT pre_word=restrict pre_tag=VB d_pre_word=to d_pre_tag=TO_VB next_word=RTC d_next_word=to current_word=the
+NNP pre_word=the pre_tag=DT d_pre_word=restrict d_pre_tag=VB_DT next_word=to d_next_word=Treasury current_word=RTC
+IN pre_word=RTC pre_tag=NNP d_pre_word=the d_pre_tag=DT_NNP next_word=Treasury d_next_word=borrowings current_word=to
+NNP pre_word=to pre_tag=IN d_pre_word=RTC d_pre_tag=NNP_IN next_word=borrowings d_next_word=only current_word=Treasury
+NNS pre_word=Treasury pre_tag=NNP d_pre_word=to d_pre_tag=IN_NNP next_word=only d_next_word=, prefix1=b suffix1=s prefix2=bo suffix2=gs prefix3=bor suffix3=ngs prefix4=borr suffix4=ings current_word=UNK
+RB pre_word=borrowings pre_tag=NNS d_pre_word=Treasury d_pre_tag=NNP_NNS next_word=, d_next_word=unless current_word=only
+, pre_word=only pre_tag=RB d_pre_word=borrowings d_pre_tag=NNS_RB next_word=unless d_next_word=the current_word=,
+IN pre_word=, pre_tag=, d_pre_word=only d_pre_tag=RB_, next_word=the d_next_word=agency prefix1=u suffix1=s prefix2=un suffix2=ss prefix3=unl suffix3=ess prefix4=unle suffix4=less current_word=UNK
+DT pre_word=unless pre_tag=IN d_pre_word=, d_pre_tag=,_IN next_word=agency d_next_word=receives current_word=the
+NN pre_word=the pre_tag=DT d_pre_word=unless d_pre_tag=IN_DT next_word=receives d_next_word=specific current_word=agency
+VBZ pre_word=agency pre_tag=NN d_pre_word=the d_pre_tag=DT_NN next_word=specific d_next_word=congressional prefix1=r suffix1=s prefix2=re suffix2=es prefix3=rec suffix3=ves prefix4=rece suffix4=ives current_word=UNK
+JJ pre_word=receives pre_tag=VBZ d_pre_word=agency d_pre_tag=NN_VBZ next_word=congressional d_next_word=authorization prefix1=s suffix1=c prefix2=sp suffix2=ic prefix3=spe suffix3=fic prefix4=spec suffix4=ific current_word=UNK
+JJ pre_word=specific pre_tag=JJ d_pre_word=receives d_pre_tag=VBZ_JJ next_word=authorization d_next_word=. prefix1=c suffix1=l prefix2=co suffix2=al prefix3=con suffix3=nal prefix4=cong suffix4=onal current_word=UNK
+NN pre_word=huge pre_tag=JJ d_pre_word=the d_pre_tag=DT_JJ next_word=without d_next_word=any current_word=volume
+IN pre_word=volume pre_tag=NN d_pre_word=huge d_pre_tag=JJ_NN next_word=any d_next_word=obvious current_word=without
+DT pre_word=without pre_tag=IN d_pre_word=volume d_pre_tag=NN_IN next_word=obvious d_next_word=strain current_word=any
+JJ pre_word=any pre_tag=DT d_pre_word=without d_pre_tag=IN_DT next_word=strain d_next_word=, prefix1=o suffix1=s prefix2=ob suffix2=us prefix3=obv suffix3=ous prefix4=obvi suffix4=ious current_word=UNK
+NN pre_word=obvious pre_tag=JJ d_pre_word=any d_pre_tag=DT_JJ next_word=, d_next_word=in prefix1=s suffix1=n prefix2=st suffix2=in prefix3=str suffix3=ain prefix4=stra suffix4=rain current_word=UNK
+, pre_word=strain pre_tag=NN d_pre_word=obvious d_pre_tag=JJ_NN next_word=in d_next_word=sharp current_word=,
+IN pre_word=, pre_tag=, d_pre_word=strain d_pre_tag=NN_, next_word=sharp d_next_word=contrast current_word=in
+JJ pre_word=in pre_tag=IN d_pre_word=, d_pre_tag=,_IN next_word=contrast d_next_word=to prefix1=s suffix1=p prefix2=sh suffix2=rp prefix3=sha suffix3=arp prefix4=shar suffix4=harp current_word=UNK
+NN pre_word=sharp pre_tag=JJ d_pre_word=in d_pre_tag=IN_JJ next_word=to d_next_word=Black prefix1=c suffix1=t prefix2=co suffix2=st prefix3=con suffix3=ast prefix4=cont suffix4=rast current_word=UNK
+IN pre_word=contrast pre_tag=NN d_pre_word=sharp d_pre_tag=JJ_NN next_word=Black d_next_word=Monday current_word=to
+NNP pre_word=to pre_tag=IN d_pre_word=contrast d_pre_tag=NN_IN next_word=Monday d_next_word=of current_word=Black
+NNP pre_word=Black pre_tag=NNP d_pre_word=to d_pre_tag=IN_NNP next_word=of d_next_word=1987 current_word=Monday
+IN pre_word=Monday pre_tag=NNP d_pre_word=Black d_pre_tag=NNP_NNP next_word=1987 d_next_word=. current_word=of
+CD pre_word=of pre_tag=IN d_pre_word=Monday d_pre_tag=NNP_IN next_word=. d_next_word=END current_word=1987
+. pre_word=1987 pre_tag=CD d_pre_word=of d_pre_tag=IN_CD next_word=END d_next_word=END current_word=.
+CC pre_word=START pre_tag=START d_pre_word=START d_pre_tag=START_START next_word=the d_next_word=rally current_word=But
+DT pre_word=But pre_tag=CC d_pre_word=START d_pre_tag=START_CC next_word=rally d_next_word=was current_word=the
+NN pre_word=the pre_tag=DT d_pre_word=But d_pre_tag=CC_DT next_word=was d_next_word=largely current_word=rally
+VBD pre_word=rally pre_tag=NN d_pre_word=the d_pre_tag=DT_NN next_word=largely d_next_word=confined current_word=was
+RB pre_word=was pre_tag=VBD d_pre_word=rally d_pre_tag=NN_VBD next_word=confined d_next_word=to current_word=largely
+VBN pre_word=largely pre_tag=RB d_pre_word=was d_pre_tag=VBD_RB next_word=to d_next_word=the prefix1=c suffix1=d prefix2=co suffix2=ed prefix3=con suffix3=ned prefix4=conf suffix4=ined current_word=UNK
+IN pre_word=confined pre_tag=VBN d_pre_word=largely d_pre_tag=RB_VBN next_word=the d_next_word=blue-chip current_word=to
+DT pre_word=to pre_tag=IN d_pre_word=confined d_pre_tag=VBN_IN next_word=blue-chip d_next_word=stocks current_word=the
+JJ pre_word=the pre_tag=DT d_pre_word=to d_pre_tag=IN_DT next_word=stocks d_next_word=, current_word=blue-chip
+NNS pre_word=blue-chip pre_tag=JJ d_pre_word=the d_pre_tag=DT_JJ next_word=, d_next_word=which current_word=stocks
+, pre_word=stocks pre_tag=NNS d_pre_word=blue-chip d_pre_tag=JJ_NNS next_word=which d_next_word=had current_word=,
+WDT pre_word=, pre_tag=, d_pre_word=stocks d_pre_tag=NNS_, next_word=had d_next_word=been current_word=which
+VBD pre_word=which pre_tag=WDT d_pre_word=, d_pre_tag=,_WDT next_word=been d_next_word=hard current_word=had
+VBN pre_word=had pre_tag=VBD d_pre_word=which d_pre_tag=WDT_VBD next_word=hard d_next_word=hit current_word=been
+RB pre_word=been pre_tag=VBN d_pre_word=had d_pre_tag=VBD_VBN next_word=hit d_next_word=during prefix1=h suffix1=d prefix2=ha suffix2=rd prefix3=har suffix3=ard prefix4=hard suffix4=hard current_word=UNK
+VBN pre_word=hard pre_tag=RB d_pre_word=been d_pre_tag=VBN_RB next_word=during d_next_word=Friday current_word=hit
+IN pre_word=hit pre_tag=VBN d_pre_word=hard d_pre_tag=RB_VBN next_word=Friday d_next_word='s current_word=during
+NNP pre_word=during pre_tag=IN d_pre_word=hit d_pre_tag=VBN_IN next_word='s d_next_word=selling current_word=Friday
+POS pre_word=Friday pre_tag=NNP d_pre_word=during d_pre_tag=IN_NNP next_word=selling d_next_word=frenzy current_word='s
+NN pre_word='s pre_tag=POS d_pre_word=Friday d_pre_tag=NNP_POS next_word=frenzy d_next_word=. current_word=selling
+NN pre_word=selling pre_tag=NN d_pre_word='s d_pre_tag=POS_NN next_word=. d_next_word=END prefix1=f suffix1=y prefix2=fr suffix2=zy prefix3=fre suffix3=nzy prefix4=fren suffix4=enzy current_word=UNK
+. pre_word=frenzy pre_tag=NN d_pre_word=selling d_pre_tag=NN_NN next_word=END d_next_word=END current_word=.
+JJ pre_word=START pre_tag=START d_pre_word=START d_pre_tag=START_START next_word=, d_next_word=more prefix1=O suffix1=l prefix2=Ov suffix2=ll prefix3=Ove suffix3=all prefix4=Over suffix4=rall contains_upper=True current_word=UNK
+, pre_word=Overall pre_tag=JJ d_pre_word=START d_pre_tag=START_JJ next_word=more d_next_word=Big current_word=,
+JJR pre_word=, pre_tag=, d_pre_word=Overall d_pre_tag=JJ_, next_word=Big d_next_word=Board current_word=more
+NNP pre_word=more pre_tag=JJR d_pre_word=, d_pre_tag=,_JJR next_word=Board d_next_word=stocks current_word=Big
+NNP pre_word=Big pre_tag=NNP d_pre_word=more d_pre_tag=JJR_NNP next_word=stocks d_next_word=lost current_word=Board
+NNS pre_word=Board pre_tag=NNP d_pre_word=Big d_pre_tag=NNP_NNP next_word=lost d_next_word=money current_word=stocks
+VBD pre_word=stocks pre_tag=NNS d_pre_word=Board d_pre_tag=NNP_NNS next_word=money d_next_word=than current_word=lost
+NN pre_word=lost pre_tag=VBD d_pre_word=stocks d_pre_tag=NNS_VBD next_word=than d_next_word=gained current_word=money
+IN pre_word=money pre_tag=NN d_pre_word=lost d_pre_tag=VBD_NN next_word=gained d_next_word=. current_word=than
+VBN pre_word=than pre_tag=IN d_pre_word=money d_pre_tag=NN_IN next_word=. d_next_word=END prefix1=g suffix1=d prefix2=ga suffix2=ed prefix3=gai suffix3=ned prefix4=gain suffix4=ined current_word=UNK
+. pre_word=gained pre_tag=VBN d_pre_word=than d_pre_tag=IN_VBN next_word=END d_next_word=END current_word=.
+CC pre_word=START pre_tag=START d_pre_word=START d_pre_tag=START_START next_word=many d_next_word=arbitragers current_word=And
+JJ pre_word=And pre_tag=CC d_pre_word=START d_pre_tag=START_CC next_word=arbitragers d_next_word=, current_word=many
+NNS pre_word=many pre_tag=JJ d_pre_word=And d_pre_tag=CC_JJ next_word=, d_next_word=already current_word=arbitragers
+, pre_word=arbitragers pre_tag=NNS d_pre_word=many d_pre_tag=JJ_NNS next_word=already d_next_word=reeling current_word=,
+RB pre_word=, pre_tag=, d_pre_word=arbitragers d_pre_tag=NNS_, next_word=reeling d_next_word=from current_word=already
+VBG pre_word=already pre_tag=RB d_pre_word=, d_pre_tag=,_RB next_word=from d_next_word=Friday prefix1=r suffix1=g prefix2=re suffix2=ng prefix3=ree suffix3=ing prefix4=reel suffix4=ling current_word=UNK
+IN pre_word=reeling pre_tag=VBG d_pre_word=already d_pre_tag=RB_VBG next_word=Friday d_next_word='s current_word=from
+NNP pre_word=from pre_tag=IN d_pre_word=reeling d_pre_tag=VBG_IN next_word='s d_next_word=collapse current_word=Friday
+POS pre_word=Friday pre_tag=NNP d_pre_word=from d_pre_tag=IN_NNP next_word=collapse d_next_word=of current_word='s
+NN pre_word='s pre_tag=POS d_pre_word=Friday d_pre_tag=NNP_POS next_word=of d_next_word=the current_word=collapse
+IN pre_word=collapse pre_tag=NN d_pre_word='s d_pre_tag=POS_NN next_word=the d_next_word=UAL current_word=of
+DT pre_word=of pre_tag=IN d_pre_word=collapse d_pre_tag=NN_IN next_word=UAL d_next_word=deal current_word=the
+NNP pre_word=the pre_tag=DT d_pre_word=of d_pre_tag=IN_DT next_word=deal d_next_word=, current_word=UAL
+NN pre_word=UAL pre_tag=NNP d_pre_word=the d_pre_tag=DT_NNP next_word=, d_next_word=were current_word=deal
+, pre_word=deal pre_tag=NN d_pre_word=UAL d_pre_tag=NNP_NN next_word=were d_next_word=further current_word=,
+VBD pre_word=, pre_tag=, d_pre_word=deal d_pre_tag=NN_, next_word=further d_next_word=hurt current_word=were
+RBR pre_word=were pre_tag=VBD d_pre_word=, d_pre_tag=,_VBD next_word=hurt d_next_word=yesterday current_word=further
+VBN pre_word=further pre_tag=RBR d_pre_word=were d_pre_tag=VBD_RBR next_word=yesterday d_next_word=when prefix1=h suffix1=t prefix2=hu suffix2=rt prefix3=hur suffix3=urt prefix4=hurt suffix4=hurt current_word=UNK
+NN pre_word=hurt pre_tag=VBN d_pre_word=further d_pre_tag=RBR_VBN next_word=when d_next_word=a current_word=yesterday
+WRB pre_word=yesterday pre_tag=NN d_pre_word=hurt d_pre_tag=VBN_NN next_word=a d_next_word=proposed current_word=when
+DT pre_word=when pre_tag=WRB d_pre_word=yesterday d_pre_tag=NN_WRB next_word=proposed d_next_word=takeover current_word=a
+VBN pre_word=a pre_tag=DT d_pre_word=when d_pre_tag=WRB_DT next_word=takeover d_next_word=of current_word=proposed
+NN pre_word=proposed pre_tag=VBN d_pre_word=a d_pre_tag=DT_VBN next_word=of d_next_word=AMR current_word=takeover
+IN pre_word=takeover pre_tag=NN d_pre_word=proposed d_pre_tag=VBN_NN next_word=AMR d_next_word=Corp. current_word=of
+NNP pre_word=of pre_tag=IN d_pre_word=takeover d_pre_tag=NN_IN next_word=Corp. d_next_word=, current_word=AMR
+NNP pre_word=AMR pre_tag=NNP d_pre_word=of d_pre_tag=IN_NNP next_word=, d_next_word=the current_word=Corp.
+, pre_word=Corp. pre_tag=NNP d_pre_word=AMR d_pre_tag=NNP_NNP next_word=the d_next_word=parent current_word=,
+DT pre_word=, pre_tag=, d_pre_word=Corp. d_pre_tag=NNP_, next_word=parent d_next_word=of current_word=the
+NN pre_word=the pre_tag=DT d_pre_word=, d_pre_tag=,_DT next_word=of d_next_word=American current_word=parent
+IN pre_word=parent pre_tag=NN d_pre_word=the d_pre_tag=DT_NN next_word=American d_next_word=Airlines current_word=of
+NNP pre_word=of pre_tag=IN d_pre_word=parent d_pre_tag=NN_IN next_word=Airlines d_next_word=, current_word=American
+NNP pre_word=American pre_tag=NNP d_pre_word=of d_pre_tag=IN_NNP next_word=, d_next_word=collapsed prefix1=A suffix1=s prefix2=Ai suffix2=es prefix3=Air suffix3=nes prefix4=Airl suffix4=ines contains_upper=True current_word=UNK
+, pre_word=Airlines pre_tag=NNP d_pre_word=American d_pre_tag=NNP_NNP next_word=collapsed d_next_word=. current_word=,
+VBD pre_word=, pre_tag=, d_pre_word=Airlines d_pre_tag=NNP_, next_word=. d_next_word=END prefix1=c suffix1=d prefix2=co suffix2=ed prefix3=col suffix3=sed prefix4=coll suffix4=psed current_word=UNK
+. pre_word=collapsed pre_tag=VBD d_pre_word=, d_pre_tag=,_VBD next_word=END d_next_word=END current_word=.
+RB pre_word=START pre_tag=START d_pre_word=START d_pre_tag=START_START next_word=, d_next_word=the prefix1=I suffix1=d prefix2=In suffix2=ed prefix3=Ind suffix3=eed prefix4=Inde suffix4=deed contains_upper=True current_word=UNK
+, pre_word=Indeed pre_tag=RB d_pre_word=START d_pre_tag=START_RB next_word=the d_next_word=Dow current_word=,
+DT pre_word=, pre_tag=, d_pre_word=Indeed d_pre_tag=RB_, next_word=Dow d_next_word=Jones current_word=the
+NNP pre_word=the pre_tag=DT d_pre_word=, d_pre_tag=,_DT next_word=Jones d_next_word=Transportation current_word=Dow
+NNP pre_word=Dow pre_tag=NNP d_pre_word=the d_pre_tag=DT_NNP next_word=Transportation d_next_word=Average current_word=Jones
+NNP pre_word=Jones pre_tag=NNP d_pre_word=Dow d_pre_tag=NNP_NNP next_word=Average d_next_word=plunged current_word=Transportation
+NNP pre_word=Transportation pre_tag=NNP d_pre_word=Jones d_pre_tag=NNP_NNP next_word=plunged d_next_word=102.06 current_word=Average
+VBD pre_word=Average pre_tag=NNP d_pre_word=Transportation d_pre_tag=NNP_NNP next_word=102.06 d_next_word=points current_word=plunged
+CD pre_word=plunged pre_tag=VBD d_pre_word=Average d_pre_tag=NNP_VBD next_word=points d_next_word=, prefix1=1 suffix1=6 prefix2=10 suffix2=06 prefix3=102 suffix3=.06 prefix4=102. suffix4=2.06 contains_number=True current_word=UNK
+NNS pre_word=102.06 pre_tag=CD d_pre_word=plunged d_pre_tag=VBD_CD next_word=, d_next_word=its current_word=points
+, pre_word=points pre_tag=NNS d_pre_word=102.06 d_pre_tag=CD_NNS next_word=its d_next_word=second-worst current_word=,
+PRP$ pre_word=, pre_tag=, d_pre_word=points d_pre_tag=NNS_, next_word=second-worst d_next_word=drop current_word=its
+JJ pre_word=its pre_tag=PRP$ d_pre_word=, d_pre_tag=,_PRP$ next_word=drop d_next_word=in prefix1=s suffix1=t prefix2=se suffix2=st prefix3=sec suffix3=rst prefix4=seco suffix4=orst contains_hyphen=True current_word=UNK
+NN pre_word=second-worst pre_tag=JJ d_pre_word=its d_pre_tag=PRP$_JJ next_word=in d_next_word=history current_word=drop
+IN pre_word=drop pre_tag=NN d_pre_word=second-worst d_pre_tag=JJ_NN next_word=history d_next_word=. current_word=in
+NN pre_word=in pre_tag=IN d_pre_word=drop d_pre_tag=NN_IN next_word=. d_next_word=END prefix1=h suffix1=y prefix2=hi suffix2=ry prefix3=his suffix3=ory prefix4=hist suffix4=tory current_word=UNK
+. pre_word=history pre_tag=NN d_pre_word=in d_pre_tag=IN_NN next_word=END d_next_word=END current_word=.

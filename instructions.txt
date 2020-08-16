@@ -1,0 +1,17 @@
+python MLETrain.py <train set> <q file> <e file> <optional - name of extra file>
+
+# if not mention arg4 as name of extra file you want, it will create an extra file named "extra_file"
+
+
+python HMMTag.py <test set> <q file> <e file> <output predictions file> <extra file>
+
+# Must! insert extra file for running this progam
+
+same...
+
+python HMMTagO.py <test set> <q(ner) file> <e(ner) file> <output predictions file> <extra file>
+
+# Must! insert extra file for running this progam
+
+
+Use the same extra file that outputed by MLETrain before running HMMTag/HMMTagO!!!
